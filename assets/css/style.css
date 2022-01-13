@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.5rem;
+}
+
+h1 {
+    font-size: 1.3rem;
+    color: rgba(123, 138, 189, 0.51);
+}
+
+a {
+    display: block;
+    width: 10rem;
+    margin: 2rem auto;
+    text-align: center;
+    color: #3d3d3d;
+    text-decoration: none;
+    padding: 0.3rem 0.5rem;
+    background-color: rgb(201, 202, 229);
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: rgb(184, 186, 212);
+}
+
+p {
+    margin-top: 0;
+    text-align: center;
+}
